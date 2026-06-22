@@ -42,10 +42,10 @@ When you inevitably hit a wall—whether it's a Next.js routing error, an Nginx 
 4.  **Document & Escalate:** If 30 minutes pass, stop. Write down exactly what you tried, what the error is, and bring it to Office Hours.
 5.  **Dont Stop** Dont wait for office go for your next problem  to solve.
 
-## 6. The Sandbox (How we learn)
+## 6. The Sandbox (How We Learn)
 Before you are granted access to any production repositories, you must prove you understand the workflows outlined above. 
 
-We maintain a shared `Sandbox` repository. It is our training ground and living knowledge library. When you need to execute a "Mini-Project" to learn a new concept, it goes there. 
+We maintain a shared `Sandbox` repository. It is our training ground and living knowledge library. This is where we execute the **Mini-Project Rule**: If you hit a core concept or technology you do not understand, do not just passively watch tutorials. You must define a series of isolated "mini-projects" to actively learn the mechanism.
 
 **Your Action Item:**
-Go to the [`Sandbox`](http://github.com/shahriaryPrison/the-sanbox/) repository now. Read its `README.md`, follow the instructions to add yourself to the Active Roster, and submit your first Pull Request. 
+Go to the [`Sandbox`](http://github.com/shahriaryPrison/the-sanbox/) repository now. Read its `README.md` for full details on how the Mini-Project Rule works, follow the instructions to add yourself to the Active Roster, and submit your first Pull Request.
