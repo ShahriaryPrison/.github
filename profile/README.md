@@ -42,7 +42,7 @@ When you inevitably hit a wall—whether it's a Next.js routing error, an Nginx 
 4.  **Document & Escalate:** If 30 minutes pass, stop. Write down exactly what you tried, what the error is, and bring it to Office Hours.
 5.  **Dont Stop** Dont wait for office go for your next problem  to solve.
 
-## 6. The Sandbox (Your First Mission)
+## 6. The Sandbox (How we learn)
 Before you are granted access to any production repositories, you must prove you understand the workflows outlined above. 
 
 We maintain a shared `Sandbox` repository. It is our training ground and living knowledge library. When you need to execute a "Mini-Project" to learn a new concept, it goes there. 
