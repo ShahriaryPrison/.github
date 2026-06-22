@@ -41,3 +41,11 @@ When you inevitably hit a wall—whether it's a Next.js routing error, an Nginx 
 3.  **Isolate the Variable:** Strip away the complexity. If the API is failing, test it with an empty payload. If the container won't start, check the port bindings.
 4.  **Document & Escalate:** If 30 minutes pass, stop. Write down exactly what you tried, what the error is, and bring it to Office Hours.
 5.  **Dont Stop** Dont wait for office go for your next problem  to solve.
+
+## 6. The Sandbox (Your First Mission)
+Before you are granted access to any production repositories, you must prove you understand the workflows outlined above. 
+
+We maintain a shared `Sandbox` repository. It is our training ground and living knowledge library. When you need to execute a "Mini-Project" to learn a new concept, it goes there. 
+
+**Your Action Item:**
+Go to the [`Sandbox`](http://github.com/shahriaryPrison/the-sanbox/) repository now. Read its `README.md`, follow the instructions to add yourself to the Active Roster, and submit your first Pull Request. 
